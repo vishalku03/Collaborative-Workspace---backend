@@ -113,19 +113,22 @@ The backend is designed with a **clean, modular, and scalable architecture**.
 
 ---
 
-### Backend
-
+## Backend
 
 cd server
+
 npm install
+
 npm run start
 
 
 
-### Frontend
+## Frontend
 
 cd client
+
 npm install
+
 npm start
 
 
@@ -133,30 +136,35 @@ npm start
 Deployment :- 
 ---------
 
-The project is designed to be deployed on cloud platforms.
-Backend can be deployed as a Node.js service (e.g., Render)
-Frontend can be deployed as a static site
-Environment variables are managed securely via the platform
-Docker support is optional and not mandatory
-Deployment links can be added here after deployment.
-Design Philosophy
-Backend-first development approach
-Clear separation of concerns
-Modular and maintainable codebase
-API-first design
-Real-time and async capabilities built into the core
+- The project is designed to be deployed on cloud platforms.
+- Backend can be deployed as a Node.js service (e.g., Render)
+- Frontend can be deployed as a static site
+- Environment variables are managed securely via the platform
+- Docker support is optional and not mandatory
+- Deployment links can be added here after deployment.
+
+
+Design Philosophy : -
+-------------------
+
+- Backend-first development approach
+- Clear separation of concerns
+- Modular and maintainable codebase
+- API-first design
+- Real-time and async capabilities built into the core
 
 Scope and Limitations : -
 ----------------------
 
-Frontend UI is minimal by design
-Avanced collaborative editors and UI enhancements are out of scope
-Focus is on backend quality, scalability, and correctness
+- Frontend UI is minimal by design.
+- Avanced collaborative editors and UI enhancements are out of scope
+- Focus is on backend quality, scalability, and correctness
 
 Conclusion:-
 -----------
 
 This project demonstrates the design and implementation of a real-time collaborative backend system, emphasizing secure authentication, role-based access control, real-time communication, and scalable architecture.
+
 
 
 
