@@ -54,7 +54,8 @@ The backend is designed with a **clean, modular, and scalable architecture**.
 - Socket.IO (Real-time communication)
 - BullMQ (Background jobs)
 - Redis (optional, for scaling)
-- Swagger (API documentation)
+
+### lINK
 
 - Swagger API Documentation : -  https://real-time-collaborative-backend-x37b.onrender.com/api-docs/
  
@@ -166,6 +167,7 @@ Conclusion:-
 -----------
 
 This project demonstrates the design and implementation of a real-time collaborative backend system, emphasizing secure authentication, role-based access control, real-time communication, and scalable architecture.
+
 
 
 
