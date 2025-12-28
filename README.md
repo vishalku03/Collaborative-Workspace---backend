@@ -26,26 +26,6 @@ This is conceptually similar to a simplified collaborative coding or development
 
 ---
 
-## Repository Structure
-
-
-collaborative-workspace/
-│
-├── server/ # Backend service (core implementation)
-│ ├── src/
-│ ├── README.md
-│ └── package.json
-│
-├── client/ # Frontend client (supporting layer)
-│ ├── src/
-│ ├── README.md
-│ └── package.json
-│
-└── README.md # Overall project documentation (this file)
-
-
----
-
 ## Backend (Core of the Project)
 
 The backend is designed with a **clean, modular, and scalable architecture**.
@@ -177,4 +157,5 @@ Conclusion:-
 -----------
 
 This project demonstrates the design and implementation of a real-time collaborative backend system, emphasizing secure authentication, role-based access control, real-time communication, and scalable architecture.
+
 
