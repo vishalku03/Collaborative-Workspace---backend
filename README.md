@@ -56,8 +56,9 @@ The backend is designed with a **clean, modular, and scalable architecture**.
 - Redis (optional, for scaling)
 - Swagger (API documentation)
 
- Swagger API Documentation : -  https://real-time-collaborative-backend-x37b.onrender.com/api-docs/
- Backend url : - https://real-time-collaborative-backend-x37b.onrender.com/
+- Swagger API Documentation : -  https://real-time-collaborative-backend-x37b.onrender.com/api-docs/
+ 
+- Backend url : - https://real-time-collaborative-backend-x37b.onrender.com/
 
 ---
 
@@ -165,6 +166,7 @@ Conclusion:-
 -----------
 
 This project demonstrates the design and implementation of a real-time collaborative backend system, emphasizing secure authentication, role-based access control, real-time communication, and scalable architecture.
+
 
 
 
