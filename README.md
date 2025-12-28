@@ -115,7 +115,7 @@ The backend is designed with a **clean, modular, and scalable architecture**.
 
 ### Backend
 
-```bash
+
 cd server
 npm install
 npm run start
@@ -157,5 +157,6 @@ Conclusion:-
 -----------
 
 This project demonstrates the design and implementation of a real-time collaborative backend system, emphasizing secure authentication, role-based access control, real-time communication, and scalable architecture.
+
 
 
